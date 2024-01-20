@@ -1,6 +1,5 @@
 ## 장 혜 정
-#### Hye-Jeong Jang
-#### Hasiley Jang
+#### Hye-Jeong Jang / Hasiley
 
 
 ## 🔨 CAN 🔨
