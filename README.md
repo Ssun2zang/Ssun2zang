@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Ssun2zang"/>
+</a>
+
 ## 장 혜 정
 #### Hye-Jeong Jang / Haisely
 - 팀원과 적극적인 소통을 선호해서 중간 결과 보고 및 계획을 자주 공유하도록 노력해요.<br />
@@ -26,7 +30,3 @@
         <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"> 
     </div>
 </div>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Ssun2zang?pet-id=1" width="1000" height="120"/>
-</a>
