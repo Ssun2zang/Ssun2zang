@@ -5,9 +5,7 @@
 - 새로운 것을 도전하는 것에 익숙하고 분야의 식견을 넓힐 수 있는 경험을 선호해요.<br />
 <br />
 <br />
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Ssun2zang?pet-id=1" width="1000" height="120"/>
-</a>
+
 ## 🔨 CAN 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
@@ -28,3 +26,7 @@
         <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"> 
     </div>
 </div>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Ssun2zang?pet-id=1" width="1000" height="120"/>
+</a>
