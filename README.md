@@ -26,8 +26,3 @@
         <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"> 
     </div>
 </div>
-
-## Farm
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Ssun2zang"/>
-</a>
