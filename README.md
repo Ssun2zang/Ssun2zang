@@ -4,8 +4,6 @@
 - 주어진 일에 몰두하여 작업하는 데에 재미를 느껴요.<br />
 - 새로운 것을 도전하는 것에 익숙하고 분야의 식견을 넓힐 수 있는 경험을 선호해요.<br />
 
-![Haisley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssun2zang&show_icons=true&theme=transparent)
-
 <br/>
 
 ## 🔨 CAN 🔨
@@ -24,6 +22,5 @@
     <div>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> 
         <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
-        
     </div>
 </div>
