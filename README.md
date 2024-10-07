@@ -8,10 +8,10 @@
 <br/>
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ssun2zang&show_icons=true&theme=transparent&rank_icon=github&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Ssun2zang&show_icons=true&theme=transparent&rank_icon=github&layout=compact&langs_count=8&card_width=320" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mmmmhj" />
+  <img height=150 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mmmmhj" />
 </a>
 
 
